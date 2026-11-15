@@ -1,0 +1,9 @@
+{
+  "short_name": "Pinterest",
+  "name": "Pinterest Clone",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#e60023",
+  "background_color": "#ffffff"
+}
