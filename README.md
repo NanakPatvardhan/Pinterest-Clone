@@ -324,7 +324,7 @@ Building this project helped me gain practical experience with:
 
 - First of all it took me more than 20 hours to complete the whole app ;/ ,
 - but i did and gained whole new experience :) ,
-- i can build this ass many times as i want now.  
+- i can build this as many times as i want now.  
 - Connecting a React frontend to a Node.js backend.
 - Building and working with REST APIs.
 - Implementing authentication using JWT.
@@ -344,7 +344,7 @@ Some of the most challenging parts were connecting authentication, database owne
 ## Future Improvements
 
 - Currently I have jumped into AI and cloud will see how I can use those features into the app. 
-- I do have plans of use third party APIS to implement live Pinterest pins into the app I am looking into it.  
+- I do have plans of using third party APIS to implement live Pinterest pins into the app, I am looking into it.  
 - Image uploading and cloud storage.
 - Public discovery feed across multiple users.
 - Additional social features.
